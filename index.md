@@ -2,6 +2,6 @@
 title: Lerntagebuch
 ---
 
-## Willkommen zu meinem Lerntagebuch
+## Willkommen zum Lerntagebuch von fribsle
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Schön bist du da! Hier erfährst du mehr über meine Erfahrungen und Erkenntnisse im Kurs **Bibliotheks- und Archivinformatik**.
