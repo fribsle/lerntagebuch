@@ -1,6 +1,6 @@
 ---
 title: "Wo bin ich gestartet..."
-date: 2021-09-20
+date: 2021-09-14
 ---
 Meine Ausgangslage in Bezug auf das Modul Bibliotheks- und Archivinformatik zeigt sich im Herbst 2021 folgendermassen: Im Bachelorstudium Information Science befinde ich mich im 7. Semester und absolviere den Major Informationswissenschaften. Nebst dem Studium arbeite ich zu 60% an der Universitätsbibliothek St.Gallen. Dort bin ich Verantwortlich für die Kommunikation und Innovation. Daneben bin ich an der Ausleihe und in der Rechercheberatung tätig. Und zu einem kleinen Prozentsatz mache ich die Formalerschliessung für kleinere Themengebiete. Dies bedeutet, dass ich ALMA (früher ALEPH) und swisscovery als Anwenderin nutze und kenne. Durch ein hohe Beteiligung in die Prozesse unserer Bibliothek kenne ich zudem einzelne Möglichkeiten zur Modifikation oder Anpassungshürden dieser beiden Systeme.
 
